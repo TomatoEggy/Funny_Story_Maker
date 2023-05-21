@@ -1,0 +1,10 @@
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\bin\Debug\FunnyStory_Maker.exe.config
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\bin\Debug\FunnyStory_Maker.exe
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\bin\Debug\FunnyStory_Maker.pdb
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\obj\Debug\FunnyStory_Maker.csproj.AssemblyReference.cache
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\obj\Debug\FunnyStory_Maker.MainWindow.resources
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\obj\Debug\FunnyStory_Maker.Properties.Resources.resources
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\obj\Debug\FunnyStory_Maker.csproj.GenerateResource.cache
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\obj\Debug\FunnyStory_Maker.csproj.CoreCompileInputs.cache
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\obj\Debug\FunnyStory_Maker.exe
+E:\Code\C Sharp\FunnyStory_Maker\FunnyStory_Maker\obj\Debug\FunnyStory_Maker.pdb
